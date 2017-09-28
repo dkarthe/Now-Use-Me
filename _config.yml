@@ -1,11 +1,11 @@
 
-title: Karna
+title: Now Use Me 
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+url: http://nowuse.me/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/"
 
 
 sass:
@@ -28,10 +28,10 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: 
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: nowuseme
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
