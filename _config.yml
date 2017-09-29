@@ -1,13 +1,12 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" 
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
-                                  # `http://<username>.github.io` - for GitHub
+url                          : "nowuse.me" 
 
 blog:
-  title                      : dactl
+  title                      : Now Use Me
   description                  : >
-                               this should contain a proper description
+                               
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
