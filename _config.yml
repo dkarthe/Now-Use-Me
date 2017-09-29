@@ -4,7 +4,7 @@ baseurl                      : "/"
 url                          : "nowuse.me" 
 
 blog:
-  title                      : NowUseMe
+  title                      : Now Use Me
   description                  : >
                                
 
@@ -30,7 +30,7 @@ author:
   mail                      : kd@datamail.in # change to your e-mail address
   twitter                   : gpaidapps
   github                    : github-user-name
-  youtube                   : youtube-user-name
+  youtube                   : #youtube-user-name
   stackoverflow             : kaydee
   disqus                    : nowuseme
   google_analytics          : # 'UA-XXXXXXXX-X'
