@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Now Use Me!
 hero: 'https://source.unsplash.com/collection/430471/'
-overlay: red
+overlay: blue
 tags:
   - jekyll
   - dactl
