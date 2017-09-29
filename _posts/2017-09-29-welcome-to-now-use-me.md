@@ -4,8 +4,6 @@ title:  "Welcome to Now Use Me!"
 hero: https://source.unsplash.com/collection/430471/
 overlay: green
 published: true
-hero: https://unsplash.com/collections/207560/
-published: true
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`.
