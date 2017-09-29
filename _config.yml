@@ -7,6 +7,8 @@ permalink: ':title/'
 markdown: kramdown
 baseurl: "/"
 
+paginate: 6
+paginate_path: /page:num/
 
 sass:
     style: compressed
@@ -41,3 +43,4 @@ include: [_pages]
 version: 0.8
 
 gems: [jekyll-paginate, jekyll-seo-tag]
+
