@@ -1,7 +1,6 @@
 # Base blog settings
-baseurl: "/" # the subpath of your site,                         # e.g. /blog/
-                              # set to '' in case of hosting on GitHub
-url : "nowuse.me" 
+  baseurl: "/"                       
+  url : www.nowuse.me 
 
   blog:
   title: Now Use Me
