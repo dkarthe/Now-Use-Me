@@ -2,44 +2,12 @@
 layout: default
 ---
 
-<div class="page-container">
-   {% if page.img %}
-    <img class="featured-img" src={{ "/images-hq/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-    {% endif %}
-    <div class="content">
-    <article>
-        <h1 class="page-title">{{page.title}}</h1>
-        {% if page.author %}
-        <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
-        {% endif %}
-        {{page.content | markdownify}}
-    </article>
-        {% if page.categories %}
-        {% related.html %}   
-        {% include disqus.html %}
-            {% else %}
-            {% endif %}
-    </div>
-</div>
 
-<div id="disqus_thread"></div>
-<script>
+{% include post.html post=page %}
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = "www.nowuse.me;  
-this.page.identifier = 
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://nowuseme.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+{% if site.discus_identifier %}
+    {% include externals/disqus.html %}
+    {% include comments.html post=page %}
+{% endif %}
+
+{% include post/related.html %}
