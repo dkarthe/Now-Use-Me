@@ -15,7 +15,7 @@ blog:
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts                   : true # show excerpts instead of full post content on blog page
   inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : true # show post titles only on main blog page
+  titles_only                : flase # show post titles only on main blog page
 
 # Fonts
   font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
@@ -24,14 +24,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : KD
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
+  mail                      : kd@datamail.in # change to your e-mail address
+  twitter                   : gpaidapps
   github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : # your_disqus_forum_shortname
+  youtube                   : #youtube-user-name
+  stackoverflow             : #stackoverflow-user-name
+  disqus                    : nowuseme
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
