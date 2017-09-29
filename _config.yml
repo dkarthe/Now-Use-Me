@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                       
                               
-url                          : "nowuse.me" 
+url                          : "https://nowuse.me" 
 
 blog:
   title                      : Now Use Me
