@@ -4,7 +4,7 @@ title: "Apple iPhone 8 Plus: How to use Portrait Lighting"
 tag: 
    - jekyll
    - dectl
-hero: https://unsplash.com/collections/165911
+hero: 'https://unsplash.com/collections/165911/'
 overlay: red
 published: true
 
