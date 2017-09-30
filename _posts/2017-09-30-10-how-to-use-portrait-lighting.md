@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple iPhone 8 Plus: How to use Portrait Lighting
-hero: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwja16HUzszWAhXJQY8KHQ24BqsQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9ERBn2yjG_Q&psig=AOvVaw1He6rh-7P8ZOjoStm1xIkO&ust=1506850745689482
+hero: https://unsplash.com/collections/165911
 overlay: red
 published: true
 ---
