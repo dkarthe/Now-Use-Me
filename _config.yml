@@ -45,6 +45,9 @@ author:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-press
+  - html_press
+  - csspool
 
 # Permalinks
 permalink                    : posts/:slug
