@@ -3,8 +3,8 @@ layout: post
 title: Installing Jekyll SEO Tag
 tag: 
    - tech
-hero: https://source.unsplash.com/collections/430468/
-overlay: blue
+hero: https://unsplash.com/collections/430468/
+overlay: green
 published: true
 ---
 {: .lead}
