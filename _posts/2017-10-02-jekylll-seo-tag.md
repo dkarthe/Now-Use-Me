@@ -4,7 +4,7 @@ title: Installing Jekyll SEO Tag
 tag: 
    - tech
 hero: 'https://unsplash.com/collections/430468/workspace'
-overlay: green
+overlay: blue
 published: true
 ---
 {: .lead}
