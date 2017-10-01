@@ -9,6 +9,8 @@ overlay: purple
 ---
 
 Apple made Portrait effect a mainstream feature last year with the launch of the iPhone 7 Plus. This year with the iPhone 8 Plus (and the iPhone X), Apple is taking things to the next level with a feature it calls Portrait Lighting.
+{: .lead}
+<!–-break-–>
 
 As the name suggests, this feature lets you play around with the lighting effects when clicking a portrait photo. Apple claims it spent countless hours perfecting this feature by studying portraits by renaissance masters. The feature is currently in beta mode. Here’s a guide to what Portrait Lighting is all about, and how you could use it.
 
