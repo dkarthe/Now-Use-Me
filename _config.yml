@@ -8,7 +8,7 @@ blog:
   description                : >
                                
 # Layout configuration
-  logo_path                  : #"assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/dactl.svg" # path to logo file
   search_path                : nowuse.me
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
