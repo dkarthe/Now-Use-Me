@@ -18,13 +18,14 @@ published: false
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Now Use ME
 
 # My name is KD and I’m the author of this blog.
 
 I write things I have tried. It takes a reasonable amount of time to research, test, and test again on other platforms. Writing a tech article which deals with coding isn’t easy. It involves a lot of hard work.
 
+****Connect with me****
 
+[Facebok](https://facebook.com/u4i.me)  [Twitter](https://twitter.com/gpaidapps)  [Mail](mailto: kd@datamail.in)
 
 
 </div>
