@@ -112,6 +112,6 @@ compress_html:
   endings                 : all
   comments                : ["<!-- ", " -->"]
   blanklines              : true
-  profile                 : true
+  profile                 : false
   ignore:
   envs                    : [local]
