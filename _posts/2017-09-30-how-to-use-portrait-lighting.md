@@ -4,7 +4,6 @@ title: "Apple iPhone 8 Plus: How to use Portrait Lighting"
 tag: 
    - jekyll
    - dectl
-hero: 'https://unsplash.com/collections/165911/'
 overlay: red
 ---
 Apple made Portrait effect a mainstream feature last year with the launch of the iPhone 7 Plus. This year with the iPhone 8 Plus (and the iPhone X), Apple is taking things to the next level with a feature it calls Portrait Lighting.
