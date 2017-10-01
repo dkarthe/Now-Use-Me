@@ -34,8 +34,8 @@ author:
   stackoverflow             : #stackoverflow-user-name
   disqus                    : nowuseme
   google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  photo                     : "uploads/profile.png"
+  photo2x                   : "uploads/profile.png"
 
 
 ## !!
@@ -63,7 +63,6 @@ collections:
     output: true
     permalink: /tag/:slug/
 defaults:
-  -
     scope:
       path: ""
       type: my_tags
@@ -111,6 +110,6 @@ compress_html:
   endings                 : all
   comments                : ["<!-- ", " -->"]
   blanklines              : true
-  profile                 : false
+  profile                 : true
   ignore:
   envs                    : [local]
