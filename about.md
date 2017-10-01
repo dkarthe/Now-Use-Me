@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: true
+published: false
 ---
 
 <div class="page" markdown="1">
