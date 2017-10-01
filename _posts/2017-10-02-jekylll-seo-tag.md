@@ -3,6 +3,7 @@ layout: post
 title: Installing Jekyll SEO Tag
 tag: 
    - tech
+published: true
 ---
 <!--break-->
 
