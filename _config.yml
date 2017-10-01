@@ -5,7 +5,7 @@ url                          : "https://nowuse.me"
 
 blog:
   title                      : Now Use Me
-  description                : >
+  description                : The leading mobile and technology news source for breaking news, reviews, insights and opinions.
                                
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
