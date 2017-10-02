@@ -5,7 +5,8 @@ url                          : "https://nowuse.me"
 
 blog:
   title                      : Now Use Me
-  description                : >
+  description                : The leading mobile and technology news source for breaking news, reviews, insights and opinions.
+  
                                
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -32,7 +33,7 @@ author:
   youtube                   : #youtube-user-name
   stackoverflow             : #stackoverflow-user-name
   disqus                    : nowuseme
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  google_analytics          : UA-107284032-1 # 'UA-XXXXXXXX-X'
   photo                     : "uploads/profile.png"
   photo2x                   : "uploads/profile.png"
 
@@ -45,7 +46,15 @@ author:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-press
+  - html_press
+  - csspool
+  - jekyll-feed
+  - jekyll-redirect-from
 
+include: 
+    - .htaccess
+    
 # Permalinks
 permalink                    : posts/:slug
 
@@ -69,7 +78,7 @@ defaults:
       layout: blog-by-tag
 
 # Handling Reading
-exclude                    : ["README.md", "README.html"]
+exclude                    : ["README.md","node_modules","README.html"]
 
 # https://github.com/jekyll/jekyll/issues/4619
 # Markdown and highlighter settings
@@ -108,7 +117,7 @@ compress_html:
   clippings               : all
   endings                 : all
   comments                : ["<!-- ", " -->"]
-  blanklines              : true
-  profile                 : true
+  blanklines              : false
+  profile                 : false
   ignore:
   envs                    : [local]
