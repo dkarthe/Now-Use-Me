@@ -77,7 +77,7 @@ defaults:
       layout: blog-by-tag
 
 # Handling Reading
-exclude                    : ["README.md", "README.html"]
+exclude                    : ["README.md","node_modules","README.html"]
 
 # https://github.com/jekyll/jekyll/issues/4619
 # Markdown and highlighter settings
