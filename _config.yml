@@ -51,6 +51,9 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
 
+include: 
+    - .htaccess
+    
 # Permalinks
 permalink                    : posts/:slug
 
