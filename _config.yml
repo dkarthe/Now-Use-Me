@@ -49,6 +49,7 @@ gems:
   - html_press
   - csspool
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Permalinks
 permalink                    : posts/:slug
