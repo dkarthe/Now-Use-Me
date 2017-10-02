@@ -32,7 +32,7 @@ author:
   youtube                   : #youtube-user-name
   stackoverflow             : #stackoverflow-user-name
   disqus                    : nowuseme
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  google_analytics          : UA-107284032-1 # 'UA-XXXXXXXX-X'
   photo                     : "uploads/profile.png"
   photo2x                   : "uploads/profile.png"
 
