@@ -4,6 +4,8 @@ sitemap:
   exclude: 'yes'
 ---
 User-agent: *
-Disallow:
+Disallow: /folder/
+Disallow: /file.html
+Disallow: /image.png
 
 Sitemap: {{ site.url }}/sitemap.xml
