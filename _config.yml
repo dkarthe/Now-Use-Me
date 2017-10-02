@@ -7,13 +7,6 @@ blog:
   title                      : Now Use Me
   description                : The leading mobile and technology news source for breaking news, reviews, insights and opinions.
   
-<title>
-   {%if page.title %}
-       {{ page.title }}
-   {% else %}
-       {{ site.title }}
-   {% endif %}
-</title>
                                
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
