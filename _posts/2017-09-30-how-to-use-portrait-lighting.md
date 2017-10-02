@@ -2,10 +2,9 @@
 layout: post
 title: How to use Portrait Lighting
 tag: 
-   - jekyll
-   - dectl
-hero: https://unsplash.com/collections/165911/
-overlay: purple
+   - tech
+hero: https://source.unsplash.com/collections/165911/
+overlay: orange
 published: true
 ---
 
