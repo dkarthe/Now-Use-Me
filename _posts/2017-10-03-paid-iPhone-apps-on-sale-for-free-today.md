@@ -18,7 +18,7 @@ These sales could end an hour from now or a week from now — obviously the only
 
 #Dark Night Browser
 
-![img](http://is4.mzstatic.com/image/thumb/Purple128/v4/39/8e/72/398e72de-5475-1749-f71a-f989e6f80a1e/source/392x696bb.jpg)
+![img](https://is4.mzstatic.com/image/thumb/Purple128/v4/39/8e/72/398e72de-5475-1749-f71a-f989e6f80a1e/source/392x696bb.jpg)
 
 Normally $1.99.
 
@@ -64,12 +64,12 @@ Advanced features:
 
 The Screen Filter and Dark Mode feature is work IN THIS APP ONLY.
 
-***[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid1187668051%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
+***[Download](https://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid1187668051%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
 
 
 #911 Help SMS
 
-![img](http://is4.mzstatic.com/image/thumb/Purple18/v4/b3/18/63/b318630e-e527-37bf-016d-6336f31544db/source/392x696bb.jpg)
+![img](https://is4.mzstatic.com/image/thumb/Purple18/v4/b3/18/63/b318630e-e527-37bf-016d-6336f31544db/source/392x696bb.jpg)
 
 $8.99 “911 Help SMS Pro” in-app purchase currently free.
 
@@ -101,5 +101,5 @@ Your subscription payment will be charged to your iTunes Account at the confirma
 
 Continued use of GPS running in the background can dramatically decrease battery life.
 
-***[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid798026644%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
+***[Download](https://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid798026644%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
 
