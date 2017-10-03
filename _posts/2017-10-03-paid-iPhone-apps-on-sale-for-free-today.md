@@ -10,7 +10,9 @@ published: true
 ---
 ![img](https://boygeniusreport.files.wordpress.com/2017/10/free-apps-oct2.jpg)
 
-This post covers paid iPhone and iPad apps that have been made available for free for a limited time by their developers.There is no way to tell how long they will be free. <!---break--->
+This post covers paid iPhone and iPad apps that have been made available for free for a limited time by their developers.There is no way to tell how long they will be free. 
+{: .lead} 
+<!--break-->
 
 These sales could end an hour from now or a week from now — obviously the only thing we can guarantee is that they were free at the time this post was written. If you click on a link and see a price listed next to an app instead of the word “get,” it is no longer free. The sale has ended. If you download the app anyway, you will be charged by Apple.
 
