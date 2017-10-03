@@ -3,12 +3,11 @@ layout: post
 title: 'iPhone Apps for free'
 tag:
    - tech
-hero: https://source.unsplash.com/collections/1131591/iphone
+hero: https://boygeniusreport.files.wordpress.com/2017/10/free-apps-oct2.jpg
 date: 03-10-2017
 overlay: red
 published: true
 ---
-![img](http://boygeniusreport.files.wordpress.com/2017/10/free-apps-oct2.jpg)
 
 This post covers paid iPhone and iPad apps that have been made available for free for a limited time by their developers.There is no way to tell how long they will be free. 
 {: .lead} 
