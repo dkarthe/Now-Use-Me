@@ -1,9 +1,9 @@
 ---
 layout: post
-title: iPhone Apps for free
+title: 'iPhone Apps for free'
 tag:
    - tech
-hero: https://unsplash.com/collections/1131591/iphone
+hero: https://source.unsplash.com/collections/1131591/iphone
 date: 03-10-2017
 overlay: red
 published: true
@@ -62,7 +62,7 @@ Advanced features:
 
 The Screen Filter and Dark Mode feature is work IN THIS APP ONLY.
 
-[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid1187668051%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)
+***[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid1187668051%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
 
 
 #911 Help SMS
@@ -99,5 +99,5 @@ Your subscription payment will be charged to your iTunes Account at the confirma
 
 Continued use of GPS running in the background can dramatically decrease battery life.
 
-[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid798026644%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)
+***[Download](http://go.redirectingat.com/?id=87443X1540249&site=BGR.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fapple-store%2Fid798026644%3Fmt%3D8%26at%3D10lNUC&xguid=8571a810936d7793b1ac51cf2a314d61&xuuid=6137736b232dfcef31d75a242055f9b3&xsessid=77e452e9987b3f72167b819ed94bc021&xcreo=0&xed=0&sref=http%3A%2F%2Fbgr.com%2F2017%2F10%2F02%2Fbest-free-iphone-apps-ipad-ios-oct-2%2F&pref=http%3A%2F%2Fbgr.com%2F&xtz=-330&abp=1)***
 
