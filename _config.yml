@@ -7,7 +7,7 @@
 
 # Site settings
 title: Now Use Me
-email: your-email@domain.com
+email: kd@datamail.in
 description: > # this means to ignore newlines until "baseurl:"
   
   
@@ -20,7 +20,7 @@ url: "https://nowuse.me" # the base hostname & protocol for your site
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: webjeda
+built-by: nowuseme
 copyright:
    name: KD
    link: 'https://nowuse.me'
